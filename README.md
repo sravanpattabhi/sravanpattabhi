@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-* 🔪 I'm currently dicing up some code for FoodieFrenzy!
-* 🌩 I'm currently learning AWS Cloud Practitioner.
+* 🔪 I'm currently dicing up some code for Activity Tracker!
 * 💭 Ask me about anything, I'm all ears!
 * 📧 Reach me at my inbox for a byte-sized chat.
 * 🌈 My pronouns are code/coder/coderself.
