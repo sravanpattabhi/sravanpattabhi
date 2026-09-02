@@ -42,8 +42,7 @@ Software engineer who likes building things end to end — data pipelines, ML ex
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sravanpattabhi&show_icons=true&theme=transparent&hide_border=true" alt="Sravan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravanpattabhi&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=sravanpattabhi&theme=transparent&hide_border=true" alt="Sravan's GitHub streak stats" />
 </p>
 
 ### 🔗 Profiles
