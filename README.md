@@ -1,12 +1,21 @@
 # Hi there 👋 I'm Sravan
 
-Full-stack developer with a focus on AI and machine learning — I build intelligent applications end to end, from model training and data pipelines to the web and mobile apps that put them in people's hands.
+**Full-stack AI engineer** — distributed systems, event streams, and AI agents that catch failures before people do.
 
-- 🤖 Into AI/ML — training models, wrangling data, and shipping them inside real products
-- 🌐 Building full-stack web and mobile applications, front end to back end
-- 🔭 Currently building side projects around markets, data, and automation
-- 💬 Ask me about anything — I'm all ears!
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pattabhisravan/) or at my inbox for a byte-sized chat
+### 🌐 Portfolio → [sravanpattabhi.github.io](https://sravanpattabhi.github.io)
+
+Three engineering case studies, built to be read:
+
+- **[Cairn](https://sravanpattabhi.github.io/cairn.html)** — engineering an honest job-search engine (fail-soft pipelines, explainable scoring, dual-backend store)
+- **[Trading Lab](https://sravanpattabhi.github.io/trading-lab.html)** — no real money until it earns it (validation ladders, kill switches, reports that argue against themselves)
+- **[How I build with agents](https://sravanpattabhi.github.io/how-i-build.html)** — directed agent fleets under adversarial review gates
+
+### About me
+
+- 🤖 AI-agent skills on MCP servers, in production — catching reliability problems before customers see them
+- 🏗️ Full-stack by habit: React/TypeScript fronts to Kafka & Spring Boot backends, across AWS, Azure, and OCI
+- 📄 [Résumé](https://sravanpattabhi.github.io/resume.pdf)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sravanpattabhi) or at my inbox for a byte-sized chat
 - ⚡ Fun fact: parallel lines have so much in common… it's a shame they'll never meet!
 
 ### 🧰 Skill Set
